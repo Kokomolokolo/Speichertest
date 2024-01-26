@@ -4,6 +4,7 @@ def druck_eine_liste_aus(liste):
     for element in liste:
         print(element)
         print()
+        print("Hi")
 
 def finde_responseid(zeile):
     rueckgabe_string = ""
